@@ -1,0 +1,26 @@
+body div {
+  padding: 5px;
+}
+
+body nav {
+  padding: 15px;
+}
+
+.res {
+  size: 10px;
+  color: white;
+}
+
+.res {
+  float: left;
+  position: relative;
+  border: 1px solid black;
+  box-sizing: border-box;
+  background-color: grey;
+  margin: 5px;
+  height: 500px;
+}
+
+
+
+
